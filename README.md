@@ -1,4 +1,4 @@
-## 🎉 Birthday Greeting Webpage 
+## 🎉 Birthday Greetinr Webpage 
 
 [Demo](https://fajarghifar.github.io/happybirthday/)
 
